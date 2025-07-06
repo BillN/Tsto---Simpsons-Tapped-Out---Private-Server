@@ -83,7 +83,8 @@ WE NOW SUPPORT LINUX [here](https://github.com/bodnjenie14/Tsto---Simpsons-Tappe
 
 ### 2. IP Address Example
 - **Server IP:** `http://192.168.1.1:80`
-- **DLC IP:** `http://192.168.1.2:80/static/`
+- **DLC IP:** `http://192.168.1.1:80/`
+- note: static gets appended automatically in the windows_gui_patcher.py
 
 ---
 
